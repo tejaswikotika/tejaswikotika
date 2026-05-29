@@ -59,27 +59,25 @@ AI-based system that detects driver fatigue using face recognition and alerts dr
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tejaswikotika&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswikotika&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswikotika&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tejaswikotika&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswikotika&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswikotika&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tejaswikotika&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaswikotika&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
-
 # 👀 Profile Views
 
 <p align="left">
