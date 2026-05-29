@@ -17,6 +17,7 @@ AIML Student | Python Developer | AI Enthusiast
 - 🤖 Interested in Machine Learning & Computer Vision
 - 🌱 Currently learning React and Advanced Python
 - 🚗 Built a Fatigue Detection AI Project
+- 🔥 Interested in Open Source & Real-world AI Applications
 
 ---
 
@@ -33,7 +34,9 @@ AIML Student | Python Developer | AI Enthusiast
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-## Tools
+## AI & Tools
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -56,15 +59,51 @@ AI-based system that detects driver fatigue using face recognition and alerts dr
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tejaswikotika&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=tejaswikotika&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswikotika&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswikotika&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswikotika&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tejaswikotika&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=tejaswikotika&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-[GitHub](https://github.com/tejaswikotika)
+<p align="left">
+
+<a href="https://github.com/tejaswikotika" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kotika-tejaswi-933712296" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile ✨
+</h3>
